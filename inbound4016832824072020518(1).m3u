@@ -1,0 +1,32 @@
+#EXTM3U
+
+#EXTINF:1,rcti SYUKOI
+https://cdn-livetv1.metube.id/hls/rcti_480/index.m3u8
+#EXTINF:1,GTV SYUKOI
+https://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
+#EXTINF:1,MNCTV SYUKOI
+https://cdn-livetv1.metube.id/hls/mnctv_480/index.m3u8
+#EXTINF:1,INEWSTV SYUKOI
+https://cdn-livetv2.metube.id/hls/inewstv_480/index.m3u8
+#EXTINF:1,INDOSIAR SYUKOI
+https://cdn-livetv1.metube.id/hls/indosiar_480/index.m3u8
+#EXTINF:1,TRANTV SYUKOI
+https://cdn-livetv1.metube.id/hls/transtv_480/index.m3u8
+#EXTINF:1,TRAN 7 SYUKOI
+https://cdn-livetv1.metube.id/hls/trans7_480/index.m3u8
+#EXTINF:1,METROTV SYUKOI
+https://cdn-livetv1.metube.id/hls/metrotv_480/index.m3u8
+#EXTINF:1,ANTV SYUKOI
+https://cdn-livetv1.metube.id/hls/antv_480/index.m3u8
+#EXTINF:1,TVOON SYUKOI
+https://cdn-livetv1.metube.id/hls/tvone_480/index.m3u8
+#EXTINF:1,MNC NEWS SYUKOI
+https://cdn-livetv1.metube.id/hls/mncnews_480/index.m3u8
+#EXTINF:1,TVRI SYUKOI
+https://cdn-livetv2.metube.id/hls/tvri_480/index.m3u8
+#EXTINF:1,useesport syukoi
+http://edge.telin.useetv.com/sc/useesport_720p.m3u8
+#EXTINF:1,Beinsport1 syukoi
+http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:78a1bc703242/media_b739000_1708.ts
+#EXTINF:1,Piala Dunia1 syukoi
+http://edge.telin.swiftserve.com/live/sejXc8RhId_livetv-sbr/worldcup-info/media_1732.ts
